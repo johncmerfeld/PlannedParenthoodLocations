@@ -1,7 +1,7 @@
 # PlannedParenthoodLocations
 A public dataset of Planned Parenthood health center locations for benevolent use.
 
-Python's Scrapy library was used to generate this list, which is intended to be easily geocoded for use in GIS-based research. 
+Python's Scrapy library was used to generate `health_centers.csv`, which is intended to be easily geocoded for use in GIS-based research. 
 
 Feel free to use this dataset in any way that sheds light on healthcare in America - and to modify the code however you like. If the dataset contributes to any published work, please acknowledge the hard work of Alexandra Dawson and John C. Merfeld.
 
